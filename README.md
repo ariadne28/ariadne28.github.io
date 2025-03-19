@@ -1,2 +1,4 @@
 # ariadne28.github.io
-Bio and Portfolio
+Biography and Portfolio
+
+URL: https://ariadne28.github.io
